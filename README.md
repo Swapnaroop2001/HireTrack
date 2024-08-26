@@ -22,4 +22,4 @@ This setup includes:
 
 To add an image to this README, include the link below:
 
-![HireTrack Screenshot](https://example.com/hiretrack-screenshot.png)
+![HireTrack Screenshot](https://github.com/Swapnaroop2001/HireTrack/blob/main/src/assets/appliactiontracker.png)
